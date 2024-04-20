@@ -32,10 +32,10 @@ mitigation strategy produced by targeted funding.
 
 ### Instructions for Use:
 1. Download each individual Jupyter notebook. Depending on when this code is accessed, you may have to re-download data sets:
-    a. USGS Water Quality Portal: https://www.waterqualitydata.us/
-    b. USA Spending: https://www.usaspending.gov/search
-    c. Edis ArcGIS: https://hub.arcgis.com/datasets/esri::usa-counties/explore
-    d. US Census Bureau, American Community Survey: https://data.census.gov/
+    a. USGS Water Quality Portal: https://www.waterqualitydata.us/ <br>
+    b. USA Spending: https://www.usaspending.gov/search <br>
+    c. Edis ArcGIS: https://hub.arcgis.com/datasets/esri::usa-counties/explore <br>
+    d. US Census Bureau, American Community Survey: https://data.census.gov/ <br>
 2. Run each Jupyter notebook.
 
 ### Please reach out to us with any questions or issues. We'd be happy to help!
