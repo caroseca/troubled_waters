@@ -31,7 +31,7 @@ widespread statistically significant decreasing trend in phosphorus levels was f
 mitigation strategy produced by targeted funding.
 
 ### Instructions for Use:
-1. Download each individual Jupyter notebook. Depending on when this code is accessed, you may have to re-download data sets:
+1. Download each individual Jupyter notebook. Depending on when this code is accessed, you may have to re-download data sets:<br>
     a. USGS Water Quality Portal: https://www.waterqualitydata.us/ <br>
     b. USA Spending: https://www.usaspending.gov/search <br>
     c. Edis ArcGIS: https://hub.arcgis.com/datasets/esri::usa-counties/explore <br>
