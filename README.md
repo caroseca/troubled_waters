@@ -1,6 +1,6 @@
-# Troubled Waters: Investigating Phosphorus Dynamics \\in the Great Lakes Region \\
+# Troubled Waters: Investigating Phosphorus Dynamics in the Great Lakes Region
 
-### SI 699: Big Data Analytics Capstone Project, University of Michigan School of Information}\\
+### SI 699: Big Data Analytics Capstone Project, University of Michigan School of Information
 
 ### April 20, 2024
 
